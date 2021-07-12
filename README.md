@@ -7,4 +7,4 @@
 - UIKit, Foundation
 - MVC
 
-<img src="https://user-images.githubusercontent.com/77940475/125294296-d0700300-e32c-11eb-8c93-a826efbf7f1c.png"  height="400">         
+<img src="https://user-images.githubusercontent.com/77940475/125296990-80df0680-e32f-11eb-82e9-c4b7a7f657c3.png"  height="400">         
